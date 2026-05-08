@@ -323,3 +323,91 @@ row-gap: 20px;
 .mountainimg{
 width:900px;
 }
+.section5{
+margin-top: 130px;
+}
+.zgss5{
+text-align: center;
+}
+.imgss5{
+width: 80%;
+}
+.divimgss5{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+.obshiyss5{
+display: flex;
+align-items: center;
+height: 80px;
+border: 2px dashed rgba(189, 188, 188, 0.653);
+width: 80%;
+justify-content: space-evenly;
+margin: auto;
+margin-top: 50px;
+border-radius: 10px;
+}
+.cardss5{
+width: 300px;
+height: 360px;
+box-shadow: 0px 0px 7px rgba(161, 160, 160, 0.566);
+border-radius: 10px;
+}
+.imgcardss5{
+width: 90%;
+height: 200px;
+margin-left: 10px;
+}
+.zgcardss5{
+font-size: 18px;
+margin-top: 10px;
+text-align: center;
+}
+.pagecardss5{
+color: gray;
+text-align: center;
+margin-top: 10px;
+}
+.btnkorzina{
+width: 90%;
+height: 45px;
+color: white;
+background-color: #FF7715;
+font-size: 18px;
+font-weight: 700;
+border: none;
+border-radius: 10px;
+}
+.divbtnkorxina{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+.obshiy2ss5{
+display: flex;
+flex-wrap: wrap;
+width: 90%;
+gap: 50px;
+margin: auto;
+margin-top: 50px;
+}
+.btnkatalog{
+width: 150px;
+height: 40px;
+border: 3px solid black;
+background-color: #19191900;
+color: black;
+font-weight: 700;
+}
+.pagekatalog{
+font-weight: 700;
+text-decoration: underline;
+}
+.divbtnpage{
+display: flex;
+align-items: center;
+gap: 30px;
+justify-content: center;
+margin-top: 50px;
+}
