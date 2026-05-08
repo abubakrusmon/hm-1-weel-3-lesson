@@ -65,3 +65,99 @@ align-items: center;
 justify-content: center;
 height: 80px;
 }
+.section1{
+margin-top: 20px;
+width: 100%;
+height: 650px;
+background-color: rgb(40, 39, 39);
+}
+.zgss1{
+color: white;
+font-size: 50px;
+text-align: center;
+padding-top: 20px;
+}
+.divpagesss1{
+display: flex;
+gap: 20px;
+font-size: 20px;
+color: #FFFFFF;
+}
+.pagess1{
+color: white;
+font-size: 20px;
+font-weight: 700;
+}
+.divdanniye{
+display: flex;
+gap: 30px;
+justify-content: center;
+border-bottom: 3px solid #D4D4D4;
+width: 61%;
+margin: auto;
+margin-top: 50px;
+padding: 30px;
+padding-left: 0;
+}
+.zg2ss1{
+color: white;
+margin-left: 280px;
+margin-top: 20px;
+}
+.card1{
+width: 300px;
+height: 80px;
+border: 3px solid white;
+border-radius: 10px;
+}
+.pagecard1{
+color: white;
+font-size: 20px;
+width: 150px;
+}
+.card1{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.imgcard{
+width: 50px;
+height: 50px;
+}
+.iconnalevo{
+width: 50px;
+color: #FF7715;
+}
+.zgicon{
+color: white;
+font-size: 30px;
+font-weight: 100;
+margin-left: 5px;
+}
+.card2{
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.obshiyss1{
+display: flex;
+gap: 50px;
+justify-content: center;
+margin-top: 50px;
+}
+.iconvniz{
+width: 50px;
+color: #FF7715;
+}
+.card3{
+display: flex;
+justify-content: end;
+margin-right: 260px;
+margin-top: 10px;
+}
+.obshiy2ss1{
+display: flex;
+gap: 50px;
+justify-content: center;
+margin-top: 20px;
+}
