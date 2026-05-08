@@ -306,3 +306,20 @@ display: flex;
 flex-direction: column;
 row-gap: 40px;
 }
+.section4{
+width: 100%;
+height: 355px;
+background-color: #373737;
+margin-top: 150px;
+display: flex;
+padding-top: 40px;
+}
+.divleftss4{
+display: flex;
+flex-direction: column;
+color: white;
+row-gap: 20px;
+}
+.mountainimg{
+width:900px;
+}
